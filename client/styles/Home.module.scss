@@ -1,0 +1,41 @@
+.maindiv {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.input {
+        border: none;
+        border-radius: 10px;
+        padding: 10px;
+        text-decoration: none;
+        margin: 5px;
+        outline: none;
+        background-color: whitesmoke;
+}
+.input:focus {
+    color: blueviolet;
+    
+}
+.buttondiv {
+    margin-top: 5px;
+}
+.header {
+    color: blueviolet;
+}
+.button {
+        border: none;
+        background-color: blueviolet;
+        color: white;
+        padding: 10px 81px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        border-radius: 10px;
+        cursor: pointer;
+        margin: 2px;
+   
+}
